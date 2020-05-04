@@ -47,6 +47,57 @@
     {
         "namaHadits" : "Hadits Bersyukur", 
         "tulisanArab" : " وَمَنْ لاَيَشْكُرِ النَّاسَ لاَيَشْكُرِ اللهَ", 
-        "deskripsi" : "Artinya : barang siapa yang tidak bersyukur kepada manusia, berarti ia tidak bersyukur kepada Allah."
+        "deskripsi" : "Artinya : Barang siapa yang tidak bersyukur kepada manusia, berarti ia tidak bersyukur kepada Allah."
+    }, 
+    {
+        "namaHadits" : "Hadits Iman", 
+        "tulisanArab" : "قال النبي صلى الله عليه وسلم: {الإيمانُ مَعْرِفَةٌ بالقَلْبِ، وَقَوْلٌ بِاللِّسَانِ، وعَمَلٌ بالأَرْكَانِ}.", 
+        "deskripsi" : "Artinya : Nabi saw. bersabda, “Iman adalah mengetahui dengan hati, diucapkan dengan lisan, dan diamalkan dengan .”  Hadis ini diriwayatkan oleh imam Ibnu Majah dan imam At-Thabrani dari sahabat Ali bin Abi Thalib dengan sanad yang dhaif."
+    }, 
+    {
+        "namaHadits" : "Hadits Silaturahmi", 
+        "tulisanArab" : "صِلْ مَنْ قَطَعَكَ وَأَعْطِ مَنْ حَرَمَكَ وَأَعْرِضْ عَمَّنْ ظَلَمَكَ", 
+        "deskripsi" : "Artinya : Sambunglah orang yang memutuskan (hubungan dengan)mu, berilah kepada orang yang tidak memberi kepadamu, dan berpalinglah dari orang yang berbuat zalim kepadamu"
+    }, 
+    {
+        "namaHadits" : "Hadits Dajjal", 
+        "tulisanArab" : "مَا بَيْنَ خَلْقِ آدَمَ إِلَى قِيَامِ السَّاعَةِ خَلْقٌ أَكْبَرُ مِنَ الدَّجَّالِ", 
+        "deskripsi" : "Artinya : Tidak ada satu pun makhluk sejak Adam diciptakan hingga terjadinya kiamat yang fitnahnya (cobaannya) lebih besar dari Dajjal."
+    }, 
+    {
+        "namaHadits" : "Hadits Aqiqah", 
+        "tulisanArab" : "عَنْ سَمُرَةَ بْنِ جُنْدَبٍ اَنَّ رَسُوْلَ اللهِ ص قَالَ: كُلُّ غُلاَمٍ رَهِيْنَةٌ بِعَقِيْقَتِهِ تُذْبَحُ عَنْهُ يَوْمَ سَابِعِهِ وَ يُحْلَقُ وَ يُسَمَّى", 
+        "deskripsi" : "Artinya : Dari Samurah bin Jundab dia berkata : Rasulullah bersabda : Setiap bayi tergadai dengan aqiqahnya, disembelihkan (kambing) untuknya pada hari ke tujuh, dicukur dan diberi nama"
+    }, 
+    {
+        "namaHadits" : "Hadits Sakit", 
+        "tulisanArab" : "مَا يُصِيبُ الْمُؤْمِنَ مِنْ شَوْكَةٍ فَمَا فَوْقَهَا إِلَّا رَفَعَهُ اللَّهُ بِهَا دَرَجَةً أَوْ حَطَّ عَنْهُ بِهَا خَطِيئَةً", 
+        "deskripsi" : "Artinya : Tidak ada satupun musibah (cobaan) yg menimpa seorang muslim berupa duri atau yg semisalnya, melainkan dengannya Allah akan mengangkat derajatnya atau menghapus kesalahannya."
+    }, 
+    {
+        "namaHadits" : "Hadits Senyum", 
+        "tulisanArab" : "‎تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ", 
+        "deskripsi" : "Artinya : Senyummu dihadapan wajah saudaramu adalah sedekah."
+    }, 
+    {
+        "namaHadits" : "Hadits Menikah", 
+        "tulisanArab" : "النِّكَاحُ من سُنَّتِي فمَنْ لمْ يَعْمَلْ بِسُنَّتِي فَليسَ مِنِّي ، و تَزَوَّجُوا ؛ فإني مُكَاثِرٌ بِكُمُ الأُمَمَ", 
+        "deskripsi" : "Artinya : Menikah adalah sunnahku, barangsiapa yang tidak mengamalkan sunnahku, bukan bagian dariku. Maka menikahlah kalian, karena aku bangga dengan banyaknya umatku (di hari kiamat)"
+    }, 
+    {
+        "namaHadits" : "Hadits Pakaian Wanita", 
+        "tulisanArab" : "أَيُّمَا امْرَأَةٍ اسْتَعْطَرَتْ فَمَرَّتْ عَلَى قَوْمٍ لِيَجِدُوا مِنْ رِيحِهَا فَهِيَ زَانِيَةٌ", 
+        "deskripsi" : "Artinya : Seorang perempuan yang mengenakan wewangian lalu melalui sekumpulan laki-laki agar mereka mencium bau harum yang dia pakai maka perempuan tersebut adalah seorang pelacur."
+    }, 
+    {
+        "namaHadits" : "Hadits Berbakti kepada Orang tua", 
+        "tulisanArab" : "قَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: {رِضَا الرَّبِّ فِيْ رِضَا الْوَالِدِ، وَسَخَطُ اللهِ فِيْ سَخَطِ الْوَالِدِ}َ", 
+        "deskripsi" : "Artinya : Ridha Tuhan itu di dalam ridhanya orang tua, dan ketidak ridhaan Allah itu di dalam ketidak ridhaan orang tua."
+    }, 
+    {
+        "namaHadits" : "Hadits Ukhuwah Islamiyah", 
+        "tulisanArab" : "لاَ يَبْلُغُ عَبْدٌ حَقِيْقَةَ اْلإِيْمَانِ حَتَّى يُحِبَّ لِلنَّاسِ مَا يُحِبُّ لِنَفْسِهِ مِنَ الْخَيْرِ.", 
+        "deskripsi" : "Artinya : eorang hamba tidak dapat mencapai hakikat iman, hingga ia mencintai kebaikan untuk manusia seperti yang ia cintai untuk dirinya."
     }
+	
 ]
